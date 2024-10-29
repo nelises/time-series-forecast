@@ -8,6 +8,6 @@ A comparison of time-series forecasting methods (ARIMA, LSTM, LLM).
 - Merged dataset (unemployment rate & wage rate)
 
 **exploratory analysis**
-- EDA report (merged dataset)
-- exploratory analysis - unemployment & wage (.ipynb)
+- EDA report (merged dataset) *.html*
+- exploratory analysis - unemployment & wage *.ipynb*
 
