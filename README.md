@@ -9,4 +9,5 @@ A comparison of time-series forecasting methods (ARIMA, LSTM, LLM).
 
 **exploratory analysis**
 - EDA report (merged dataset)
+- exploratory analysis - unemployment & wage (.ipynb)
 
