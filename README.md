@@ -5,7 +5,7 @@ A comparison of time-series forecasting methods (ARIMA, LSTM, LLM).
 **datasets**
 - Unemployment rate dataset ***.csv***
 - Wage rate dataset ***.csv***
-- Merged dataset (unemployment rate & wage rate) ***.csv***
+- Merged dataset - unemployment & wage ***.csv***
 
 **exploratory analysis**
 - EDA report (merged dataset) ***.html***
