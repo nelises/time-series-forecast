@@ -1,0 +1,29 @@
+# 1. Import Libraries
+import pandas as pd
+import gdown
+
+# 2. Load the dataset
+url = 'https://drive.google.com/uc?id=1_2EUL8ogI1txoPZ8O88T4jKAA0Re8ITZ'
+
+# Download the file
+output = 'data_unemployment.csv'
+gdown.download(url, output, quiet=False)
+
+# Check the content of the downloaded file
+with open(output, 'r') as file:
+    content = file.read()
+    print("File content preview:")
+    print(content[:500])
+
+# Load the CSV file into a pandas DataFrame
+try:
+    data_unemployment = pd.read_csv(output, delimiter=',')
+    print(data_unemployment.head())
+except pd.errors.ParserError as e:
+    print("Error parsing CSV file:", e)
+
+#OPTIONAL
+# Save Data to a CSV file
+data_unemployment.to_csv('data_unemployment.csv', index=True)
+
+print("Unemployment data saved to 'data_unemployment.csv'.")
