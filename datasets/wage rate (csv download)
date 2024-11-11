@@ -3,7 +3,7 @@ import pandas as pd
 import gdown
 
 # 2. Load the dataset
-url = 'https://drive.google.com/uc?id=1HfE1KyY0mwHojEgjWRsw_9Xtmx5WoFWD'
+url = 'https://drive.google.com/uc?id=1bASVHvEJkKQCwamT3NpqVNxIe4tde5ke'
 
 # Download the file
 output = 'data_wage.csv'
