@@ -1,6 +1,13 @@
 # time-series-forecast
 A comparison of time-series forecasting methods (ARIMA, LSTM, LLM). 
 
+---
+# Project Stages
+
+
+
+
+---
 # Important Considerations
 ## Datasets
 All analysis ***.ipynb*** files are coded to automatically retrieve the appropriate working datasets; however, the codes to download all of them separately for additional inspection are found in the **datasets** folder.
