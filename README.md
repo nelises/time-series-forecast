@@ -11,7 +11,7 @@ The project adopted comprehensive datasets from Statistics Canada, covering unem
 
 **2. Data Preprocessing**  
 To prepare the data for modeling, several preprocessing steps were implemented:
-- **Data Cleaning**: Removal of inconsistencies.
+- **Data Cleaning**: Removal of data format inconsistencies.
 - **Transformation**: Standardization of numeric variables using log transformation.
 - **Handling Missing Values**: Linear interpolation was applied to manage missing data.
 - **Feature Engineering**: Creatation of new features to optimize data for model use.
