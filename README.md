@@ -59,10 +59,8 @@ All analysis ***.ipynb*** files are coded to automatically retrieve the appropri
 - cleaned data (csv download) ***.ipynb***
 
 **exploratory analysis**
-- eda_report_original ***.html***
-     *merged raw dataset*
-- eda_report_interpolated ***.html***
-     *dataset after linear interpolation*
+- eda_report_original  *merged raw dataset* ***.html***
+- eda_report_interpolated *dataset after linear interpolation* ***.html***
 - exploratory analysis (unemployment & wage) ***.ipynb***
 - exploratory analysis (unemployment & wage) ***.html***
 
