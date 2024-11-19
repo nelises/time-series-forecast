@@ -60,9 +60,9 @@ All analysis ***.ipynb*** files are coded to automatically retrieve the appropri
 
 **exploratory analysis**
 - eda_report_original ***.html***
--     *merged raw dataset*
+-   *merged raw dataset*
 - eda_report_interpolated ***.html***
--     *dataset after linear interpolation*
+-   *dataset after linear interpolation*
 - exploratory analysis (unemployment & wage) ***.ipynb***
 - exploratory analysis (unemployment & wage) ***.html***
 
@@ -72,11 +72,13 @@ All analysis ***.ipynb*** files are coded to automatically retrieve the appropri
 - ARIMA (unemployment) ***.html***
 - ARIMA (wage) ***.ipynb***
 - ARIMA (wage) ***.html***
+
 *SARIMA*
 - SARIMA (unemployment) ***.ipynb***
 - SARIMA (unemployment) ***.html***
 - SARIMA (wage) ***.ipynb***
 - SARIMA (wage) ***.html***
+
 *FB Prophet*
 - FB Prophet (unemployment) ***.ipynb***
 - FB Prophet (wage) ***.ipynb***
