@@ -54,17 +54,35 @@ All analysis ***.ipynb*** files are coded to automatically retrieve the appropri
 
 # Repository Structure
 **datasets**
-- Unemployment rate (csv download) ***.ipynb***
-- Wage rate (csv download) ***.ipynb***
-- Cleaned data (csv download) ***.ipynb***
+- unemployment rate (csv download) ***.ipynb***
+- wage rate (csv download) ***.ipynb***
+- cleaned data (csv download) ***.ipynb***
 
 **exploratory analysis**
-- EDA report (merged dataset) ***.html***
-- exploratory analysis - unemployment & wage ***.ipynb***
+- eda_report_original ***.html***
+-   *merged raw dataset*
+- eda_report_interpolated ***.html***
+-   *dataset after linear interpolation*
+- exploratory analysis (unemployment & wage) ***.ipynb***
+- exploratory analysis (unemployment & wage) ***.html***
 
 **statistical analysis**
 
+*ARIMA*
+- ARIMA (unemployment) ***.ipynb***
+- ARIMA (unemployment) ***.html***
+- ARIMA (wage) ***.ipynb***
+- ARIMA (wage) ***.html***
 
+*SARIMA*
+- SARIMA (unemployment) ***.ipynb***
+- SARIMA (unemployment) ***.html***
+- SARIMA (wage) ***.ipynb***
+- SARIMA (wage) ***.html***
+
+*FB Prophet*
+- FB Prophet (unemployment) ***.ipynb***
+- FB Prophet (wage) ***.ipynb***
 
 
 
