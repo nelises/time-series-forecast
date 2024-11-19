@@ -67,6 +67,7 @@ All analysis ***.ipynb*** files are coded to automatically retrieve the appropri
 - exploratory analysis (unemployment & wage) ***.html***
 
 **statistical analysis**
+
 *ARIMA*
 - ARIMA (unemployment) ***.ipynb***
 - ARIMA (unemployment) ***.html***
