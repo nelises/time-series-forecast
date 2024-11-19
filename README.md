@@ -3,8 +3,8 @@ A comparison of time-series forecasting methods (ARIMA, LSTM, LLM).
 
 ---
 
-# **Project Stages Overview: 
-"Forecasting the Future of Work: Advanced Predictive Analytics for Understanding Canadian Employment Trends"**
+# Project Stages Overview: 
+*"Forecasting the Future of Work: Advanced Predictive Analytics for Understanding Canadian Employment Trends"*
 
 **1. Data Collection**  
 The project adopted comprehensive datasets from Statistics Canada, covering unemployment rate and wage data from 1997 to 2023. The data included variables such as province, industry classification, sex, and age group. This ensured that the analysis captured diverse aspects of the Canadian labor market.
