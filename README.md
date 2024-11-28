@@ -1,5 +1,5 @@
 # time-series-forecast
-A comparison of time-series forecasting methods (ARIMA, LSTM, LLM). 
+A comparison of time-series forecasting methods (ARIMA, SARIMA, FB Prophet, LSTM). 
 
 ---
 
@@ -82,6 +82,11 @@ All analysis ***.ipynb*** files are coded to automatically retrieve the appropri
 - FB Prophet (unemployment) ***.ipynb***
 - FB Prophet (wage) ***.ipynb***
 
+*LSTM*
+- LSTM (unemployment) ***.ipynb***
+- LSTM (unemployment) ***.html***
+- LSTM (wage) ***.ipynb***
+- LSTM (wage) ***.html***
 
 
 
