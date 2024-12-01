@@ -80,13 +80,14 @@ All analysis ***.ipynb*** files are coded to automatically retrieve the appropri
 
 *FB Prophet*
 - FB Prophet (unemployment) ***.ipynb***
+- FB Prophet (unemployment) ***.html***
+- FB Prophet forecast plots (unemployment) ***.html***
 - FB Prophet (wage) ***.ipynb***
+- FB Prophet (wage) ***.html***
+- FB Prophet forecast plots (wage) ***.html***
 
 *LSTM*
 - LSTM (unemployment) ***.ipynb***
 - LSTM (unemployment) ***.html***
 - LSTM (wage) ***.ipynb***
 - LSTM (wage) ***.html***
-
-
-
