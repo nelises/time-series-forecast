@@ -3,7 +3,10 @@ A comparison of time-series forecasting methods (ARIMA, SARIMA, FB Prophet, LSTM
 
 ---
 # Overview
-This repository contains the project "Examining Time Series Forecasting Approaches for Predicting Canadian Employment Trends." The project aims to predict Canadian employment trends by leveraging advanced predictive analytics and big data methodologies. The study employs ARIMA, SARIMA, FB Proohet, and LSTM to forecast unemployment rates and employment wages.
+This repository contains the project "Forecasting the Future of Work: 
+Advanced Predictive Analytics for Understanding Canadian Employment Trends." 
+
+The project aims to predict Canadian employment trends by leveraging advanced predictive analytics and big data methodologies. The study employs ARIMA, SARIMA, FB Proohet, and LSTM to forecast unemployment rates and employment wages.
 
 # Project Stages: 
 
