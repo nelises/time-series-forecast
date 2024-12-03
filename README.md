@@ -77,6 +77,7 @@ All analysis ***.ipynb*** files are coded to automatically retrieve the appropri
 - SARIMA (unemployment) ***.html***
 - SARIMA (wage) ***.ipynb***
 - SARIMA (wage) ***.html***
+- - Additional Models (less effective model parameters) ***folder***
 
 *FB Prophet*
 - FB Prophet (unemployment) ***.ipynb***
@@ -91,3 +92,4 @@ All analysis ***.ipynb*** files are coded to automatically retrieve the appropri
 - LSTM (unemployment) ***.html***
 - LSTM (wage) ***.ipynb***
 - LSTM (wage) ***.html***
+- Additional Models (less effective model parameters) ***folder***
