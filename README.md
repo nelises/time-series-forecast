@@ -17,7 +17,7 @@ The project adopted comprehensive datasets from Statistics Canada, covering unem
 **2. Data Preprocessing**  
 - **Data Cleaning**: Removal of data format inconsistencies.
 - *Transformation*: Standardization of numeric variables using log transformation.
-- *Handling Missing Values*: Linear interpolation was applied to manage missing data.
+- Handling Missing Values: Linear interpolation was applied to manage missing data.
 - *Feature Engineering*: Creatation of new features to optimize data for model use.
 
 
