@@ -16,35 +16,35 @@ The project adopted comprehensive datasets from Statistics Canada, covering unem
 
 **2. Data Preprocessing**  
 - **Data Cleaning**: Removal of data format inconsistencies.
-- *Transformation*: Standardization of numeric variables using log transformation.
-- Handling Missing Values: Linear interpolation was applied to manage missing data.
-- *Feature Engineering*: Creatation of new features to optimize data for model use.
+- **Transformation**: Standardization of numeric variables using log transformation.
+- **Handling Missing Values**: Linear interpolation was applied to manage missing data.
+- **Feature Engineering**: Creatation of new features to optimize data for model use.
 
 
 **3. Model Selection and Development**  
-- *Traditional Models*: ARIMA, SARIMA, and Facebook Prophet were used for capturing linear and seasonal relationships.
-- *Deep Learning Models*: Long Short-Term Memory (LSTM) was used for capturing non-linear dynamics and long-term dependencies.
+- **Traditional Models**: ARIMA, SARIMA, and Facebook Prophet were used for capturing linear and seasonal relationships.
+- **Deep Learning Models**: Long Short-Term Memory (LSTM) was used for capturing non-linear dynamics and long-term dependencies.
 
 
 **4. Model Training and Testing**  
-- *Training*: 1997 - 2020
--  *Testing*: 2021 - 2023
+- **Training**: 1997 - 2020
+- **Testing**: 2021 - 2023
 
 **5. Model Implementation**  
-- *ARIMA and SARIMA*: Statsmodels library 
-- *FB Prophet*: prophet library
-- *LSTM*: TensorFlow and Keras 
+- **ARIMA and SARIMA**: Statsmodels library 
+- **FB Prophet**: prophet library
+- **LSTM**: TensorFlow and Keras 
 
 
 **6. Analysis and Interpretation**  
 Model performance was assessed based on predictive accuracy, with comparisons made across:
-- *Model Accuracy Metrics*: The MSE was used to evaluate individual model performance.
-- *Outcome Comparisons*: The Mean Absolute Percentage Error (MAPE) was used to evaluate performance across models.
-- *Visualization*: Graphs were developed to enhance understanding of the forecast trends and the relative model performance.
+- **Model Accuracy Metrics**: The MSE was used to evaluate individual model performance.
+- **Outcome Comparisons**: The Mean Absolute Percentage Error (MAPE) was used to evaluate performance across models.
+- **Visualization**: Graphs were developed to enhance understanding of the forecast trends and the relative model performance.
 
 
 **7. Results Presentation and Policy Recommendations**  
-- *Results*: All model results are documented in ***.html*** format
+- **Results**: All model results are documented in ***.html*** format
 
 ---
 
